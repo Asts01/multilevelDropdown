@@ -1,9 +1,9 @@
 import React from 'react'
-
-function ServicesOffered() {
+//to be implemented in futire
+function ServicesOffered({props}) {
   return (
     <div>
-      <h2>ServicesOffered</h2>
+      <h2>ServicesOffered :{props}</h2>
     </div>
   )
 }

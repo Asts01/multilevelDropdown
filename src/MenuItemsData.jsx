@@ -9,9 +9,9 @@ export const menuItemsData=[
             {
                 title:'FrontEnd',
                 submenu:[
-                    // {
-                    //     title:'React.JS',
-                    // },
+                    {
+                        title:'React',
+                    },
                     {
                         title:'JavaScript',
                     }
@@ -38,9 +38,9 @@ export const menuItemsData=[
     },
     {
         title:'ServicesOffered',
-        // submenu:[
-        //     {title:'P2P'},{title:'AP'},{title:'T&E'},{title:'QR'},{title:'Advances'}
-        // ]
+        submenu:[
+            {title:'P2P'},{title:'AP'},{title:'T&E'},{title:'QR'},{title:'Advances'}
+        ]
     }
 ];
 //contains list of objects

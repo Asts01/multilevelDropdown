@@ -15,7 +15,7 @@ function NavbarCol() {
             {   
               // Represents current item and the index -> LEVEL-1 MAPPING
               menuItemsData.map((menu, index) => (
-                <MenuItems items={menu} key={index} className="bg-slate-400"/>
+                <MenuItems items={menu} key={index} direction={1} className="bg-slate-100 hover:bg-slate-300 left-0"/>
               ))
             }
           </ul>
