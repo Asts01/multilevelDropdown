@@ -3,7 +3,7 @@ import React from 'react'
 function JavaScript() {
   return (
     <div>
-      <h2>JavaScript</h2>
+      <h2 className='flex justify-end'>JavaScript</h2>
     </div>
   )
 }

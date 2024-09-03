@@ -3,7 +3,7 @@ import React from 'react'
 function TAndE() {
   return (
     <div>
-      <h2>Servicesoffered:T&E</h2>
+      <h2 className='flex justify-end'>Servicesoffered:T&E</h2>
     </div>
   )
 }

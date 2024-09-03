@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 export default function Home() {
     return (
         < div>
-            <h2 className='bg-pink-200 m-4 flex flex-col justify-center items-center text-green-800'>
+            <h2 className='bg-pink-200 m-4 flex flex-col  text-green-800 fixed right-0'>
                     Welcome To Dice
             </h2>
             <div className='m-4 w-auto flex justify-center'>

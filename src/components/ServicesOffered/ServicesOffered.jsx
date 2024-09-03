@@ -3,7 +3,7 @@ import React from 'react'
 function ServicesOffered({props}) {
   return (
     <div>
-      <h2>ServicesOffered :{props}</h2>
+      <h2 className='flex justify-end'>ServicesOffered :{props}</h2>
     </div>
   )
 }
