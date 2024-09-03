@@ -1,3 +1,4 @@
+//default-page
 export const menuItemsData=[
     {
         title:'Dice',
@@ -8,9 +9,9 @@ export const menuItemsData=[
             {
                 title:'FrontEnd',
                 submenu:[
-                    {
-                        title:'React.JS',
-                    },
+                    // {
+                    //     title:'React.JS',
+                    // },
                     {
                         title:'JavaScript',
                     }
@@ -21,13 +22,13 @@ export const menuItemsData=[
                 submenu:[
                     {
                         title:'Java',
-                        submenu:[
-                            {title:'Library1',submenu:[{title:'Library11'},{title:'Library12'}]},{title:'Library2'}
-                        ]
+                        // submenu:[
+                        //     {title:'Library1',submenu:[{title:'Library11'},{title:'Library12'}]},{title:'Library2'}
+                        // ]
                     },
-                    {
-                        title:'Vertex',
-                    }
+                    // {
+                    //     title:'Vertex',
+                    // }
                 ]
             },
             {  
@@ -37,9 +38,9 @@ export const menuItemsData=[
     },
     {
         title:'ServicesOffered',
-        submenu:[
-            {title:'P2P'},{title:'AP'},{title:'T&E'},{title:'QR'},{title:'Advances'}
-        ]
+        // submenu:[
+        //     {title:'P2P'},{title:'AP'},{title:'T&E'},{title:'QR'},{title:'Advances'}
+        // ]
     }
 ];
 //contains list of objects

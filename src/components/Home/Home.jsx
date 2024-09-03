@@ -5,7 +5,7 @@ export default function Home() {
     return (
         < div>
             <h2 className='bg-pink-200 m-4 flex flex-col justify-center items-center text-green-800'>
-                    Home-Screen
+                    Welcome To Dice
             </h2>
             <div className='m-4 w-auto flex justify-center'>
             <img src="https://i.ibb.co/2M7rtLk/Remote1.png" alt="Cant fetch data" className='m-4'/>
